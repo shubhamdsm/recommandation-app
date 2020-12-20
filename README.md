@@ -1,2 +1,3 @@
 # recommandation-app
-Created with CodeSandbox
+My personal recommandations
+[Hoasted Link](https://recommandations.netlify.app)
