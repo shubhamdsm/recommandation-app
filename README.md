@@ -1,3 +1,3 @@
 # recommandation-app
 My personal recommandations
-[Hoasted Link](https://recommandations.netlify.app)
+[Hosted Link](https://recommandations.netlify.app)
